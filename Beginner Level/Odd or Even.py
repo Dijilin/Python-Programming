@@ -1,6 +1,5 @@
-def main():
-a=int(input())
+a=int(input("Enter a number:"))
 if(a%2==0):
-    print("Even")
+   print("Even")
 else:
-    print("Odd")
+   print("Odd")
