@@ -1,6 +1,6 @@
-a=int(input())
+d=int(input())
 b=int(input())
-a=a+b
-b=a-b
-a=a-b
-print(a,b)
+d=d+b
+b=d-b
+d=d-b
+print(d,b)
